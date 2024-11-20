@@ -6,14 +6,21 @@ This project involves deploying a Machine Learning application using Docker cont
 Step 1: Set up a Kubernetes Cluster
 
 Step 2: Machine Learning Deployment using Docker
+
     * Build Docker Image
+    
     * Run Docker Container
+    
     * Push Docker Image to Docker Hub
+    
     * Stop Docker Container
 
 Step 3: Deploy ML App to GKE
+
     * Create Kubernetes Deployment
+    
     * Create Kubernetes Service
+    
     * Access the Application
 
 Conclusion:
